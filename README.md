@@ -10,6 +10,21 @@ Suivre les médicaments à consommer
 
 Éviter les oublis
 
+## Comment lancer le projet
+
+1. Installation des dépendences
+
+   ```bash
+   npm install
+   ```
+
+2. run l'application
+
+   ```bash
+   npx expo start
+   ```
+
+
 🎯 Objectif
 Créer une application mobile intuitive qui permet aux utilisateurs de :
 
