@@ -498,7 +498,7 @@ const MediRemindApp = () => {
                 onPress={isEdit ? updateMedication : addMedication}
               >
                 <Text style={styles.saveButtonText}>
-                  {isEdit ? "Modifier" : "Ajouter"}
+                  {isEdit ? "Modifier" : "Ajoute"}
                 </Text>
               </TouchableOpacity>
             </View>
